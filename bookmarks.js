@@ -1,11 +1,12 @@
 // Note: having length != 4 will mess with layout based on how the site is styled
 const bookmarks = [
   {
-    title: "Daily",
+    title: "Work",
     links: [
-      { name: "Inbox", url: "https://inbox.google.com" },
-      { name: "GitHub", url: "https://github.com" },
-      { name: "Drive", url: "https://drive.google.com" },
+      { name: "TJPR", url: "https://www.tjpr.jus.br/group/guest/contracheque" },
+      { name: "TJPR Jurisprudência", url: "https://portal.tjpr.jus.br/jurisprudencia/" },
+      { name: "STJ Jurisprudência", url: "https://processo.stj.jus.br/SCON/" },
+      { name: "Jusbrasil", url: "https://www.jusbrasil.com.br/jurisprudencia/" },
     ],
   },
   {
@@ -23,25 +24,27 @@ const bookmarks = [
   {
     title: "Reddit",
     links: [
-      { name: "/r/overwatch", url: "https://reddit.com/r/overwatch" },
+      { name: "/r/brasil", url: "https://reddit.com/r/brasil" },
       {
-        name: "/r/pcmasterrace",
-        url: "https://reddit.com/r/pcmasterrace",
+        name: "/r/clevelandcavs",
+        url: "https://reddit.com/r/clevelandcavs",
       },
-      { name: "/r/me_irl", url: "https://reddit.com/r/me_irl" },
+      { name: "/r/Formula1", url: "https://reddit.com/r/Formula1" },
       {
-        name: "/r/battlestations",
-        url: "https://reddit.com/r/battlestations",
+        name: "/r/futebol",
+        url: "https://reddit.com/r/futebol",
       },
-      { name: "/r/unixporn", url: "https://reddit.com/r/unixporn" },
-      { name: "/r/news", url: "https://reddit.com/r/news" },
+      { name: "/r/granturismo", url: "https://reddit.com/r/granturismo" },
+      { name: "/r/NBA", url: "https://reddit.com/r/NBA" },
+      { name: "/r/Saints", url: "https://reddit.com/r/Saints" },
+      { name: "/r/Windows11", url: "https://reddit.com/r/Windows11" },
+      
     ],
   },
   {
-    title: "Social",
+    title: "Random",
     links: [
-      { name: "Twitter", url: "https://twitter.com" },
-      { name: "Facebook", url: "https://facebook.com" },
+      { name: "SportSurge", url: "https://sportsurge.io/" },
     ],
   },
 ];
