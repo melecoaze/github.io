@@ -12,7 +12,7 @@
 
 body {
   background-image: url("img/trees.jpg"); /* The image used */
-  background-color: var(--bg);
+  /*background-color: var(--bg);*/
   background-position: center; /* Center the image */
   background-size: cover; /* Resize the background image to cover the entire container */
   margin: 0px;
